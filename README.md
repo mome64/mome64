@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mohammed Mesoud</h1>
-<h3 align="center">A Fullstack Developer from Ethiopia</h3>
+<h1 align="center">Hi 👋, I'm Mohammed Mesoud</h1>  
+<h3 align="center">Senior Fullstack Web & Mobile Developer from Ethiopia</h3>  
 
-
-- 👀 **I’m interested in:** Web development 🌐, and innovative problem-solving 🧠.  
-- 🔭 **I’m currently working on:** **Track Back** 🚀.  
-- 🌱 **I’m currently learning:** **React Native** 📱 and advancing my MERN stack skills (MongoDB 🍃, Express.js 🚀, React ⚛️, Node.js 🌟).  
-- 💬 **Ask me about:** **React, MERN stack, and building scalable applications**.  
-- 📫 **How to reach me:** mesoudmohammed393@gmail.com.  
-- ⚡ **Fun fact:** I love creating seamless user experiences ✨ and turning complex ideas into interactive web applications 💻.  
-
+- 👀 **Expertise:** Fullstack development 🌐, Mobile apps 📱, System architecture, and solving complex technical challenges 🧠.  
+- 🔭 **Current focus:** Leading development on **Track Back** 🚀, building scalable, high-performance applications.  
+- 🌱 **Continuously improving:** Advanced **React Native** 📱, MERN stack mastery (MongoDB 🍃, Express.js 🚀, React ⚛️, Node.js 🌟), and modern design patterns.  
+- 💬 **Ask me about:** Designing scalable systems, optimizing performance, integrating APIs, and fullstack architecture.  
+- 📫 **Reach me at:** mesoudmohammed393@gmail.com  
+- ⚡ **Fun fact:** I thrive on turning complex problems into seamless user experiences ✨ and mentoring teams to deliver clean, maintainable code 💻.
+- 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>  
